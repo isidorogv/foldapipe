@@ -25,4 +25,4 @@ Foldapipe test model rear view.
 
 ![Foldapipe desplegada y lista](pics/foldapipe-03.jpg)
 
-Foldapipe test model deployed and ready to print.
+Foldapipe test model unfoldded and ready to print.
