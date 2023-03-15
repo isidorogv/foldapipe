@@ -12,6 +12,8 @@
 
 * **Pipe diameter:** 20mm.
 
+* **Pipe dimensions:** 200mm (5 sections) and 300mm (6 sections).
+
 
 ## Gallery
 
