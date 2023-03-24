@@ -8,7 +8,7 @@
 
 * **Printer size (unfoldded):** (L)390x(W)410x(H)380mm.
 
-* **Printer Weight:** 5 kg.
+* **Printer Weight:** 4,8 kg.
 
 * **Pipe diameter:** 20mm.
 
